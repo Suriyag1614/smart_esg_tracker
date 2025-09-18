@@ -71,4 +71,4 @@ Deploy free on Streamlit Community Cloud:
 
 ## 📊 Dashboard
 
-[Click Here](https://smartesgtracker.streamlit.app/) to view the stremlit deployment
+[Click Here](https://smart-esg-tracker.streamlit.app/) to view the stremlit deployment
