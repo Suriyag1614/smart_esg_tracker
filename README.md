@@ -68,3 +68,7 @@ Deploy free on Streamlit Community Cloud:
   ```
 
 - Add .env in secrets for Neo4j (if used).
+
+## 📊 Dashboard
+
+https://smartesgtracker.streamlit.app/
